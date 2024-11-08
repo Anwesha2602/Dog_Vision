@@ -2,4 +2,4 @@ Problem: Dog Breed Identification
 
 data source: https://www.kaggle.com/c/dog-breed-identification/data
 
-Used principles of deep learning and CNN to develop and mobile net architecture to predict dog breeds using images.
+Developed a deep learning model that leverages a Convolutional Neural Network (CNN) built on the efficient MobileNet architecture, enabling accurate and fast prediction of dog breeds from images. 
